@@ -1,2 +1,2 @@
 # players-info
-Live Site link :https://github.com/asifhossain2k20/players-info/settings/pages
+Live Site link :https://asifhossain2k20.github.io/players-info/
